@@ -1,6 +1,6 @@
 # Top 250 DSA Questions - Solutions
 
-This repository contains **solutions for the Top 250 DSA Questions** from [GeeksforGeeks]([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/dsa/sde-sheet-a-complete-guide-for-sde-preparation/)).  
+This repository contains **solutions for the Top 250 DSA Questions** from [GeeksforGeeks](https://www.geeksforgeeks.org/dsa/sde-sheet-a-complete-guide-for-sde-preparation/).  
 
 All solutions are implemented in **Java**, are **optimized**, and **well-structured** for easy understanding and learning.  
 
