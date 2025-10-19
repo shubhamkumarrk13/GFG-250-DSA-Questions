@@ -1,10 +1,9 @@
 # Top 250 DSA Questions - Solutions
 
-This repository contains solutions for the **Top 250 Data Structures & Algorithms (DSA) Questions** from [GeeksforGeeks](https://www.geeksforgeeks.org/).  
+This repository contains **solutions for the Top 250 DSA Questions** from [GeeksforGeeks](https://www.geeksforgeeks.org/).  
 
-I am solving these problems to strengthen my DSA skills, and I am sharing **detailed solutions, explanations, and approaches** for each problem in a structured manner.  
+All solutions are implemented in **Java**, are **optimized**, and **well-structured** for easy understanding and learning.  
+
+Feel free to explore the code, study the approaches, and use it for learning purposes.  
 
 ---
-
-## 📌 Repository Structure
-
